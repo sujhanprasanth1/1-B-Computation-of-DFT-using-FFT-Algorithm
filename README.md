@@ -8,6 +8,7 @@ PC installed with SCILAB
 ### DFT FFT-ALGORITHM
 
 // Clear environment and console
+
 clear;
 
 clc;
