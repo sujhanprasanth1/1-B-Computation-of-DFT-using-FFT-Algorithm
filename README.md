@@ -60,7 +60,8 @@ xgrid();
 
 
 ### SAMPLE OUTPUT:
-<img width="998" height="772" alt="image" src="https://github.com/user-attachments/assets/49aaeea9-71db-4ba5-897d-f3d9d34fa405" />
+<img width="1600" height="831" alt="WhatsApp Image 2026-08-18 at 9 39 14 AM" src="https://github.com/user-attachments/assets/35f0bb36-4b3d-426f-8c65-9a67bfbcf2e2" />
+
 
 
 
